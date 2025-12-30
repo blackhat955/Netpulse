@@ -9,14 +9,14 @@ Offline-first network quality analyzer for iOS. Measures latency, jitter, DNS ti
 - Trend chart helps you spot patterns across the day
 
 ### Screenshots
-
-![Dashboard hero](./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.27.png)
-
-![Metrics cards](./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.37.png)
-
-![Trend and actions](./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.49.png)
-
-![Run test flow](./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.55.png)
+<p>
+  <img src="./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.27.png" alt="Dashboard hero" width="320" />
+  <img src="./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.37.png" alt="Metrics cards" width="320" />
+</p>
+<p>
+  <img src="./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.49.png" alt="Trend and actions" width="320" />
+  <img src="./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-12-30%20at%2017.04.55.png" alt="Run test flow" width="320" />
+</p>
 
 ## How To Try
 - Open the app and check the status ring at the top
